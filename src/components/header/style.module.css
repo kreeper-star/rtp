@@ -1,0 +1,15 @@
+.container{
+    background-color:#fbe584;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.nawbar{
+    height: 100%;
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #feeb96;
+}

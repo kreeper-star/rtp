@@ -1,0 +1,10 @@
+.finction{
+    background-color: rgb(227, 240, 108);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    margin-left: auto;
+    margin-right: auto;
+}

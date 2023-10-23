@@ -1,0 +1,16 @@
+.tru{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    font-size: 15px;
+    background-color: rgb(247, 252, 197); 
+
+}
+
+.typet{
+  background-color: rgb(248, 255, 185);
+}
